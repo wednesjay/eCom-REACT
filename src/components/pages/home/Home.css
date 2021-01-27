@@ -1,0 +1,13 @@
+.home-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.motto {
+    font-family: RobotoThin;
+    font-weight: 600;
+    margin: 20px 0px;
+    text-transform: uppercase;
+}
