@@ -7,9 +7,12 @@ import './Home.css'
 function Home () {
     return (
         <section className = 'home-card'>
-            <h1 className = 'motto'> bland on a whole new level </h1>
+            <div className = "home-background">
+            <h1 className = 'title' id = 'title'>ZA pizzeria</h1>
+            <h2 className = 'motto'>bland on a whole new level</h2>
             <Slider slides = {SliderData}/>
-            <p>taking the fatigue away from figuring out what you want by offering you almost nothing </p>
+            <p className = 'joke'>taking the fatigue away from figuring out what you want by offering you almost nothing </p>
+            </div>
         </section>
         
     )

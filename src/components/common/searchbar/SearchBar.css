@@ -1,0 +1,20 @@
+#searchBar {
+    width: 70%;
+    height: 32px;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom: 1px solid black;
+    outline: none;
+    padding: 5px 10px;
+    font-size: 24px;
+    font-family: Roboto-Thin;
+    margin-bottom: 54px;
+}
+
+#searchWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}

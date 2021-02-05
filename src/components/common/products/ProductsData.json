@@ -1,0 +1,16 @@
+{
+    "productsData": [
+    { "id": 1, "name": "Small Gouda", "image": "https://images.pexels.com/photos/5088754/pexels-photo-5088754.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260", "description": "An artistic take on the classic Gouda Pizza - Small", "price": 9},
+    { "id": 2, "name": "Small Mozzarella", "image": "https://images.pexels.com/photos/5088656/pexels-photo-5088656.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "description": "An artistic take on the classic Mozzarella Pizza - Small", "price":9},
+    { "id": 3, "name": "Small Cheddar", "image": "https://images.pexels.com/photos/5108595/pexels-photo-5108595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "description": "An artistic take on the classic Cheddar Pizza - Small", "price": 9},
+    { "id": 4, "name": "Small Pepperoni", "image": "https://images.pexels.com/photos/5088697/pexels-photo-5088697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "description": "An artistic take on the classic Pepperoni Pizza - Small", "price": 9},
+    { "id": 5, "name": "Medium Gouda", "image": "https://images.pexels.com/photos/5088754/pexels-photo-5088754.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260", "description": "An artistic take on the classic Gouda Pizza - Medium", "price": 12},
+    { "id": 6, "name": "Medium Mozzarella", "image": "https://images.pexels.com/photos/5088656/pexels-photo-5088656.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "description": "An artistic take on the classic Mozzarella Pizza - Medium", "price": 12},
+    { "id": 7, "name": "Medium Cheddar", "image": "https://images.pexels.com/photos/5108595/pexels-photo-5108595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "description": "An artistic take on the classic Cheddar Pizza - Medium", "price": 12},
+    { "id": 8, "name": "Medium Pepperoni", "image": "https://images.pexels.com/photos/5088697/pexels-photo-5088697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "description": "An artistic take on the classic Pepperoni Pizza - Medium", "price": 12},
+    { "id": 9, "name": "Large Gouda", "image": "https://images.pexels.com/photos/5088754/pexels-photo-5088754.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260", "description": "An artistic take on the classic Gouda Pizza - Large", "price": 16},
+    { "id": 10, "name": "Large Mozzarella", "image": "https://images.pexels.com/photos/5088656/pexels-photo-5088656.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "description": "An artistic take on the classic Mozzarella Pizza - Large", "price": 16},
+    { "id": 11, "name": "Large Medium", "image": "https://images.pexels.com/photos/5108595/pexels-photo-5108595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "description": "An artistic take on the classic Cheddar Pizza - Large", "price": 16},
+    { "id": 12, "name": "Large Pepperoni", "image": "https://images.pexels.com/photos/5088697/pexels-photo-5088697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", "description": "An artistic take on the classic Pepperoni Pizza - Large", "price": 16}
+]
+}

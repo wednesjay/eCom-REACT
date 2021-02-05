@@ -1,9 +1,9 @@
 import Home from './home/Home'
 import Contact from './contact/Contact'
-import Products from './products/Products'
+import ProductsPage from './products/ProductsPage'
 
 export {
     Home,
     Contact,
-    Products
+    ProductsPage
 }

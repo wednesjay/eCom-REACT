@@ -62,31 +62,3 @@
   .header-bottom__phone {
     margin-right: 65px;
   }
-  
-  /* .header-bottom__bag {
-    position: absolute;
-    display: flex;
-  }
-  
-  .header-bottom__bag-icon {
-    position: relative;
-    display: flex;
-    left: -5px;
-    width: 30px;
-    height: 30px; 
-  }
-  
-  .header-bottom__bag-count {
-    position: absolute;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: RobotoRegular;
-    right: 0px;
-    top: -5px;
-    width: 20px;
-    height: 20px;
-    background-color: red;
-    border-radius: 10px;
-    color: white;
-  } */
